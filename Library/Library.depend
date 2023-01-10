@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635634054 source:e:\library system\library system\library\main.cpp
+	"Library.h"
+
+1635633985 source:e:\library system\library system\library\src\library.cpp
+	"Library.h"
+
+1635634146 e:\library system\library system\library\include\library.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
